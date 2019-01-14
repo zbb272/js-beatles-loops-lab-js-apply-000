@@ -2,5 +2,5 @@
 function theBeatlesPlay(musicians, instruments){
   var newArray = [];
   
-  for(int i = )
+  for(i = 0; )
 }
